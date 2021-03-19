@@ -1,3 +1,8 @@
+# Acknowlegement 
+This repo has been forked from Julia Nikulski the orignial author and creator. I've adpated it for my own use as permitted by her repo. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 # Portfolio Website for my Data Science Projects
 This project showcases my data science projects on a deployed website.
 
